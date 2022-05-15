@@ -5,10 +5,11 @@ Bu yaptığım oyun henüz gelişmekte olan bir oyunun yalnızca bir kısmı. Oy
 # Kullandıklarım
 Bu projeyi yaparken CSS ve HTML dillerinini kullandım. Ayrıca belirtmek isterim ki resimdeki görseller kendi el çizimim olup jpg dosyasına çevrilmiştir.
 # Eklemek İstediklerim
--Projeye birçok yeni ve zorlaşan leveller.
+-Projeye; 
+-Birçok yeni ve zorlaşan leveller.
 -Dakika usulü yeni puanlama sistemi.
 -Animasyonlu giriş sahnesi.
 -Ses efektleri.
-Oyuncuların kullanıcı adının bulunduğu başarı sıralaması.
+-Oyuncuların kullanıcı adının bulunduğu başarı sıralaması.
 # Projeyi Geliştirenler
 Mustafa Koçumoğlu
