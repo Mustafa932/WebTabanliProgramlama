@@ -9,6 +9,6 @@ Bu projeyi yaparken CSS ve HTML dillerinini kullandım. Ayrıca belirtmek isteri
 -Dakika usulü yeni puanlama sistemi.
 -Animasyonlu giriş sahnesi.
 -Ses efektleri.
-Oyunvuların kullanıcı adının bulunduğu başarı sıralaması.
+Oyuncuların kullanıcı adının bulunduğu başarı sıralaması.
 # Projeyi Geliştirenler
 Mustafa Koçumoğlu
